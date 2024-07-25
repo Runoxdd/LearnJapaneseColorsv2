@@ -1,0 +1,32 @@
+#red{
+    color: red;
+}
+#blue{
+    color:blue;
+}
+#yellow{
+    color:yellow
+}
+#brown{
+    color:brown;
+}
+#green{
+    color: green;
+}
+#purple{
+    color: purple;
+}
+img{
+    height: 200;
+    width: 200;
+}
+.color{
+    font-weight: normal;
+}
+*{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-style: italic;
+}
